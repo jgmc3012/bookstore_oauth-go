@@ -1,0 +1,6 @@
+# github.com/federicoleon/golang-restclient v0.0.0-20191104170228-162ed620df66
+## explicit
+github.com/federicoleon/golang-restclient/rest
+# github.com/jmillandev/bookstore_utils-go v0.0.0-20211202040453-d3363839892e
+## explicit; go 1.17
+github.com/jmillandev/bookstore_utils-go/rest_errors

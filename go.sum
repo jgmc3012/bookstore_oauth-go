@@ -1,0 +1,4 @@
+github.com/federicoleon/golang-restclient v0.0.0-20191104170228-162ed620df66 h1:QESWlOIiziWcM4bCvtT7TFg4PXjudKMnO3ArjxuIJj4=
+github.com/federicoleon/golang-restclient v0.0.0-20191104170228-162ed620df66/go.mod h1:lvjF6h5LrES4h39ha/njlBBBqCmISh6BNSEiXH+mT5k=
+github.com/jmillandev/bookstore_utils-go v0.0.0-20211202040453-d3363839892e h1:HcCyKcrBFiQ3CD+jmwDSytttm9E5V17QiACTqTUQehE=
+github.com/jmillandev/bookstore_utils-go v0.0.0-20211202040453-d3363839892e/go.mod h1:ATeRAL43a5ze4yn5ik/x4UuO1CPLoVENbB+8iB8VjeE=
