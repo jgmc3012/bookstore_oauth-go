@@ -4,5 +4,5 @@ go 1.17
 
 require (
 	github.com/federicoleon/golang-restclient v0.0.0-20191104170228-162ed620df66
-	github.com/jmillandev/bookstore_utils-go v0.0.0-20211202040453-d3363839892e
+	github.com/jmillandev/bookstore_utils-go v0.0.0-20211205042447-83ba443c93fc
 )
