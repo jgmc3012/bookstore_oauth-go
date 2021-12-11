@@ -4,3 +4,5 @@ github.com/jmillandev/bookstore_utils-go v0.0.0-20211202040453-d3363839892e h1:H
 github.com/jmillandev/bookstore_utils-go v0.0.0-20211202040453-d3363839892e/go.mod h1:ATeRAL43a5ze4yn5ik/x4UuO1CPLoVENbB+8iB8VjeE=
 github.com/jmillandev/bookstore_utils-go v0.0.0-20211205042447-83ba443c93fc h1:giPuWGucCyISojvgSV3+UfTfwX0YBqEbdifP//SvidM=
 github.com/jmillandev/bookstore_utils-go v0.0.0-20211205042447-83ba443c93fc/go.mod h1:ATeRAL43a5ze4yn5ik/x4UuO1CPLoVENbB+8iB8VjeE=
+github.com/jmillandev/bookstore_utils-go v0.0.0-20211211233954-05147d4c3dc9 h1:34orOR7NIvCKKfZh6Eg3vWqt1/xBQb8o7sIQJyCIUzg=
+github.com/jmillandev/bookstore_utils-go v0.0.0-20211211233954-05147d4c3dc9/go.mod h1:fwItOW93dfK7MoaQYLlyA5qHmAW5TBuZ5HhyT6b6E5g=
